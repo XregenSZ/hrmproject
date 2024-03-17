@@ -1,0 +1,24 @@
+.sidebar {
+  width: 25%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.nav-link.main-btn-hover:hover {
+    background-color: #c0d9e6;
+    color: #333;
+}
+
+.nav-link.sub-btn-hover:hover {
+  background-color: #e6f5e6;
+  color: #333;
+}
+
+.canvasjs-chart-credit
+{
+    display: none !important;
+}
